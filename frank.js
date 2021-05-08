@@ -11,7 +11,7 @@ client.on('ready', readyDiscord);
 function readyDiscord(){
     console.log("sup bitches I've come to fuck shit up");
 }
-/*
+
 client.on('message', async message => {
     if (message.content === '&join') {
       if (message.member.voice.channel) {
@@ -21,8 +21,8 @@ client.on('message', async message => {
       }
     }
   });
-*/
 
+/*
 client.on('message', gotMessage);
 
 function gotMessage(msg) {
@@ -43,3 +43,4 @@ function gotMessage(msg) {
         }
     }
 }
+*/
